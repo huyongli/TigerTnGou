@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+
+    <!-- 天狗服务地址 -->
+    <Service type="1" baseUrl="http://www.tngou.net/" imgUrl="http://tnfs.tngou.net/img">
+        <model type="1" desc="美图">
+            <url type="1" value="tnfs/api/classify" desc="分类"></url>
+            <url type="2" value="tnfs/api/list" desc="列表"></url>
+            <url type="3" value="tnfs/api/show" desc="详情"></url>
+        </model>
+        <model type="2" desc="菜谱">
+            <url type="1" value="api/cook/classify" desc="分类"></url>
+            <url type="2" value="api/cook/list" desc="列表"></url>
+            <url type="3" value="api/cook/show" desc="详情"></url>
+        </model>
+        <model type="3" desc="健康知识">
+            <url type="1" value="api/lore/classify" desc="分类"></url>
+            <url type="2" value="api/lore/list" desc="列表"></url>
+            <url type="3" value="api/lore/show" desc="详情"></url>
+        </model>
+    </Service>
+
+</Services>

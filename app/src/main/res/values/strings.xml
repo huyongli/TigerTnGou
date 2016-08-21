@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LaoHu</string>
+    <string name="action_settings">Setting</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="load_failed">加载失败，点击重试</string>
+    <string name="please_expect">尽请期待...</string>
+    <string name="load_more_txt">正在加载...</string>
+    <string name="load_more_beauty">美女正在路上...</string>
+    <string name="load_more_cook">正在快递菜谱...</string>
+    <string name="load_more_health_lore">知识正在传输...</string>
+    <string name="two_click_exit_app">再按一次退出程序</string>
+    <string name="cook_ingredients">主要食材：</string>
+    <string name="cook_practice">烹饪方式：</string>
+    <string name="search_health_lore">搜索健康知识</string>
+    <string name="healthlore_keywords">关键词：</string>
+    <string name="healthlore_description">要点：</string>
+    <string name="action_share">分享</string>
+    <string name="action_share_title">分享美图</string>
+</resources>
