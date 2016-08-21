@@ -16,11 +16,11 @@
 7. NavigationView
 
 应用截图如下：
-<img src="image/menu.png" width = "300" height = "400" alt=""/>
-<img src="image/photo_list.png" width = "300" height = "400" alt=""/>
-<img src="image/photo.png" width = "300" height = "400" alt=""/>
-<img src="image/health_list.png" width = "300" height = "400" alt=""/>
-<img src="image/health_detail.png" width = "300" height = "400" alt=""/>
-<img src="image/cook_list.png" width = "300" height = "400" alt=""/>
-<img src="image/cook_detail.png" width = "300" height = "400" alt=""/>
+<img src="image/menu.png" width = "360" height = "640" alt=""/>
+<img src="image/photo_list.png" width = "360" height = "640" alt=""/>
+<img src="image/photo.png" width = "360" height = "640" alt=""/>
+<img src="image/health_list.png" width = "360" height = "640" alt=""/>
+<img src="image/health_detail.png" width = "360" height = "640" alt=""/>
+<img src="image/cook_list.png" width = "360" height = "640" alt=""/>
+<img src="image/cook_detail.png" width = "360" height = "640" alt=""/>
 
